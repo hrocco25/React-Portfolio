@@ -5,14 +5,13 @@ import Header from './components/header/header'
 import Contact from './components/contact/contact'
 import Projects from './components/projects/projects'
 import About from './components/about/about'
-import Nav from './components/nav/nav'
+// import Nav from './components/nav/nav'
 
 function App() {
   return (
     <div className="App">
-      <Nav />
+      {/* <Nav /> */}
       <Header />
-      <h1>Hi</h1>
       <About/>
       <Projects />
       <Contact/>
