@@ -1,4 +1,7 @@
+.projects{
+    margin: 5%;
+}
 .projects img{
-    width: 20%;
+    width: 80%;
     border: black solid .1em;
 }

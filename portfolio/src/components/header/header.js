@@ -5,7 +5,8 @@ function Header(props) {
 
     return (
         <div className="header">
-            <h1>Hi, I'm Heather a Full Stack Developer</h1>
+            <h1>Hi, I'm Heather Runyon!</h1>
+            <h2>A Full Stack Developer</h2>
         </div>
     )
 }

@@ -6,14 +6,20 @@ import linkedin from './images/linkedin.png';
 function Contact(props) {
 
     return (
-        <div>
-            <h1>Contact</h1>
+        <div className="contact">
+            <h1>Lets get in touch!</h1>
             <div>
-                <p>hrocco25@gmail.com</p>
+                <h4>Email me @ hrocco25@gmail.com</h4>
             </div>
-            <div>
-                <img src={github}/>
-                <img src={linkedin}/>
+            <div className="contactIcon">
+                <a href="https://github.com/hrocco25" target="blank">
+                    <img src={github} alt="github" /> 
+                </a>
+                <a href="https://www.linkedin.com/in/heather-runyon/" target="blank">
+                    <img src={linkedin} alt="linkedin" />
+                </a>
+                
+                
                
             </div>
 

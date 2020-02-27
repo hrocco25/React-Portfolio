@@ -5,6 +5,7 @@ import Header from './components/header/header'
 import Contact from './components/contact/contact'
 import Projects from './components/projects/projects'
 import About from './components/about/about'
+// import Tech from './components/tech/tech'
 // import Nav from './components/nav/nav'
 
 function App() {

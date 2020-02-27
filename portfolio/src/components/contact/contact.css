@@ -1,0 +1,12 @@
+.contact{
+    margin: 5%;
+}
+.contactIcon{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 20%;
+}
+
+.contactIcon img{
+    width: 50%;
+}
