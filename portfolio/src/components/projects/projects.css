@@ -5,3 +5,17 @@
     width: 80%;
     border: black solid .1em;
 }
+
+@media only screen and (min-width: 768px){
+    .allProjects{
+        display: grid;
+        grid-template: repeat(2, 1fr) / repeat(2, 1fr);
+    }
+}
+   
+  
+@media only screen and (min-width: 1200px){
+
+ 
+   
+}
