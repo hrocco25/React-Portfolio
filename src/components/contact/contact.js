@@ -6,7 +6,7 @@ import linkedin from './images/linkedin.png';
 function Contact(props) {
 
     return (
-        <div className="contact">
+        <div className="contact" id="contact">
             <h1>Lets get in touch!</h1>
             <div>
                 <h4>Email me @ hrocco25@gmail.com</h4>
