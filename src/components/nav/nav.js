@@ -7,12 +7,12 @@ function Nav(props) {
     return (
         <div className="nav">
             <div className="navL">
-                <Link style={{textDecoration: 'none', color:"black"}} to="/projects/#header">Heather Runyon</Link>
+                <Link style={{textDecoration: 'none', color:"#14B1BA "}} to="/projects/#header">Heather Runyon</Link>
             </div>
             <div className="navR">
-                <Link style={{textDecoration: 'none', color:"black"}} to="/projects/#about">About</Link>
-                <Link style={{textDecoration: 'none', color:"black"}}to="/projects/#projects">Projects</Link>
-                <Link style={{textDecoration: 'none', color:"black"}} to="/projects/#contact">Contact</Link>   
+                <Link style={{textDecoration: 'none', color:"#14B1BA "}} to="/projects/#about">About</Link>
+                <Link style={{textDecoration: 'none', color:"#14B1BA "}}to="/projects/#projects">Projects</Link>
+                <Link style={{textDecoration: 'none', color:"#14B1BA "}} to="/projects/#contact">Contact</Link>   
             </div>
 
         </div>

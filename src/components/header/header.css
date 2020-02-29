@@ -1,13 +1,15 @@
 .header{
     background-image: url(./images/blue-abstract.jpeg);
     margin: 0;
-    padding: 15% 0 15% 0;
+    padding: 20% 0 10% 0; 
 }
+
+
 
 @media only screen and (min-width: 768px){
 
     .header{
-        padding: 10% 0 10% 0;
+        padding: 15% 0 10% 0;
     }
    
 

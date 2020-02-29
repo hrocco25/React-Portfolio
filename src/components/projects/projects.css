@@ -6,6 +6,32 @@
     border: black solid .1em;
 }
 
+
+
+
+.trivia:hover{
+    color: #14B1BA;
+}
+.brewery:hover{
+    color: #14B1BA;
+}
+
+.greatReads:hover{
+    color: #14B1BA;
+}
+
+.camping:hover{
+    color: #14B1BA;
+}
+
+.github a{
+    color: #034B7C;
+    text-decoration: none;
+}
+
+.github a:hover{
+  color: #14B1BA;
+}
 @media only screen and (min-width: 768px){
     .allProjects{
         display: grid;
@@ -15,6 +41,7 @@
     .allProjects p{
         margin: 5% 8%;
     }
+    
 }
    
   

@@ -1,6 +1,10 @@
 .contact{
     margin: 5%;
 }
+
+.contact h1{
+    color:#14B1BA;
+}
 .contactIcon{
     display: flex;
     justify-content: space-around;

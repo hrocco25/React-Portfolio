@@ -9,7 +9,7 @@ function Contact(props) {
         <div className="contact" id="contact">
             <h1>Lets get in touch!</h1>
             <div>
-                <h4>Email me @ hrocco25@gmail.com</h4>
+                <h4>Email me @ hrocco25[at]gmail.com</h4>
             </div>
             <div className="contactIcon">
                 <a href="https://github.com/hrocco25" target="blank">

@@ -1,0 +1,25 @@
+.techList{
+   display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    margin: 0 5%;
+}
+
+.techList p{
+    border-radius: 10%;
+
+}
+.techList p:hover{
+    color: #14B1BA;
+
+}
+
+@media only screen and (min-width: 768px){
+
+    .techList{
+        grid-template: repeat(5, 1fr) / repeat(5, 1fr);
+        margin: 0 20%;
+    }
+
+
+}
+   
