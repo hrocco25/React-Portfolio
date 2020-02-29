@@ -57,14 +57,14 @@ function Projects(props) {
                         <a href="https://dispersed-camping.herokuapp.com/" target="blank">
                             <img src={camping} alt="camping" />    
                         </a>     
-                        <p>This is a full stack app created with Django, Python, CSS, Boostrap, and AWS.  You can look up and add free campsites to the site.</p>
+                        <p>This is a full stack app created with Django, Python, CSS, Bootstrap, and AWS.  You can look up and add free campsites to the site.</p>
 
                     </div>         
                     <div className="github">
                         <a href="https://github.com/hrocco25/camping" target="blank"><h4>Check out my code on Github</h4></a>
                     </div>
                 </div>
-                
+
             </div>
             
         </div>
