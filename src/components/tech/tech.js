@@ -18,6 +18,7 @@ function Tech(props) {
                 <p>Django</p>
                 <p>Git</p>
                 <p>CSS</p>
+                <p>Bootstrap</p>
                 <p>Express</p>
                 <p>MongoDB</p>
                 <p>Mongoose</p>
