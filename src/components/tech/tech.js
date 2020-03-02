@@ -25,7 +25,8 @@ function Tech(props) {
                 <p>Node</p>
                 <p>Git</p>
                 <p>Mocha</p>
-                <p>Chai</p>    
+                <p>Chai</p>  
+                <p>Jest</p>
             </div>
              
         </div>
