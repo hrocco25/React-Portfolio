@@ -22,8 +22,6 @@ function Tech(props) {
                 <p>Express</p>
                 <p>MongoDB</p>
                 <p>Mongoose</p>
-                <p>Node</p>
-                <p>Git</p>
                 <p>Mocha</p>
                 <p>Chai</p>  
                 <p>Jest</p>
