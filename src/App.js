@@ -16,6 +16,7 @@ function App() {
           <meta charSet="UTF-8"/>
           <title>Heather Runyon</title>
           <meta name="description" content="Heather Runyon Portfolio"/>
+          <link rel="icon" type="image/png" href="favicon.ico" size="16x16" />
         </Helmet>
       </div>
       <Nav />

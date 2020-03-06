@@ -14,3 +14,12 @@
 .contactIcon img{
     width: 50%;
 }
+
+.emailResume{
+    margin-bottom: 4%;
+}
+
+.emailResume a{
+    border: black solid .1em;
+    padding: 1%;
+}
