@@ -6,10 +6,19 @@
     border: black solid .1em;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #14B1BA;
+}
 
 
 
-.trivia:hover{
+
+/* .trivia:hover{
     color: #14B1BA;
 }
 .brewery:hover{
@@ -22,7 +31,7 @@
 
 .camping:hover{
     color: #14B1BA;
-}
+} */
 
 .github a{
     color: #034B7C;
