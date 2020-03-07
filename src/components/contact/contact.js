@@ -8,9 +8,9 @@ function Contact(props) {
     return (
         <div className="contact" id="contact">
             <h1>Lets get in touch!</h1>
-            <div className="emailResume">
+            <div className="email">
                 <h4>Email me @ hrocco25@gmail.com</h4>
-                <a href="https://drive.google.com/open?id=11i2o-Upf_eyT_6EHGIUzCnL5VxSjheHy" target="_blank">Download my Resume</a>
+                <a href="https://drive.google.com/open?id=1sFSbQOjLTfKiFUddv7N9dC0sdUJRabwy" target="_blank">View my Resume</a>
             </div>
             <div className="contactIcon">
                 <a href="https://github.com/hrocco25" target="blank">

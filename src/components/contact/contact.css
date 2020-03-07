@@ -15,11 +15,11 @@
     width: 50%;
 }
 
-.emailResume{
+.email{
     margin-bottom: 4%;
 }
 
-.emailResume a{
+.email a{
     border: black solid .1em;
     padding: 1%;
 }
