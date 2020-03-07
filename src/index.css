@@ -15,7 +15,7 @@ code {
 
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700|Slabo+27px&display=swap");
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, a{
   font-family: 'Noto Sans JP' ;
 }
 
