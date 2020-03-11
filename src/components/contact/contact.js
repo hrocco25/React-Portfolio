@@ -10,7 +10,7 @@ function Contact(props) {
             <h1>Lets get in touch!</h1>
             <div className="email">
                 <h4>Email me @ hrocco25@gmail.com</h4>
-                <a href="https://drive.google.com/open?id=1PH2114ImSZuHE4hIBUb31Ta3c6olZtmu" target="_blank" rel="noopener noreferrer">View my Resume</a>
+                <a href="https://drive.google.com/open?id=10Tmkxq8j_enDJb-dM0tNU1hbSPZmp4bZ" target="_blank" rel="noopener noreferrer">View my Resume</a>
             </div>
             <div className="contactIcon">
                 <a href="https://github.com/hrocco25" target="_blank" rel="noopener noreferrer">
