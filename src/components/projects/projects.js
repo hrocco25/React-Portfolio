@@ -4,6 +4,7 @@ import read from './images/read.png';
 import brewery from './images/brewery.png';
 import trivia from './images/trivia.png'
 import camping from './images/camping.png'
+import movie from './images/movie.png'
 
 function Projects(props) {
 
@@ -63,6 +64,19 @@ function Projects(props) {
                     </div>
                     <div className="github">
                         <a href="https://github.com/hrocco25/seir-project-one" target="_blank" rel="noopener noreferrer"><h4>Check out my code on Github</h4></a>
+                    </div>
+                </div>
+
+                <div>
+                    <div className="movie">
+                        <a href="https://movie-guide.netlify.app/" target="_blank" rel="noopener noreferrer">
+                            <h3>Movie Guide</h3>
+                            <img src={movie} alt="movie"/>
+                            <p>Responsive movie guide that uses <b>HTML</b>, <b>CSS</b>, <b>React</b>, and <b>JavaScript</b>.</p> 
+                        </a>
+                    </div>
+                    <div className="github">
+                        <a href="https://github.com/hrocco25/movies" target="_blank" rel="noopener noreferrer"><h4>Check out my code on Github</h4></a>
                     </div>
                 </div>
 
